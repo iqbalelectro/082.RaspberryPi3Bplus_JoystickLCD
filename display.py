@@ -22,3 +22,4 @@ def show_values(x_value, y_value):
     mylcd.lcd_clear()  # Bersihkan layar sebelum menampilkan pesan
     mylcd.lcd_display_string(f"X: {x_value}", 1)  # Tampilkan nilai X pada baris pertama
     mylcd.lcd_display_string(f"Y: {y_value}", 2)  # Tampilkan nilai Y pada baris kedua
+#test push git
